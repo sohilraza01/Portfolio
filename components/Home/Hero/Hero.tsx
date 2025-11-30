@@ -9,7 +9,7 @@ const Hero = () => {
         <ParticlesHero/>
         <div className="relative z-10 flex flex-col items-center">
             <Image 
-                src="/images/hero.jpg" alt="heroimage" width={150} height={150}
+                src="/hero.jpg" alt="heroimage" width={150} height={150}
                 className='rounded-full border-8 border-[#0c0c48aa]'
                 data-aos='fade-up'
             />
