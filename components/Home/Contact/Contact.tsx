@@ -42,7 +42,8 @@ const Contact = () => {
             </div>
         </div>
         {/* Form */}
-            <div className="md:p-10 p-5 bg-[#131332] rounded-lg">
+            <div data-aos='zoom-in' data-aos-anchor-placement='top-center' daa-aos-delay='0'
+             className="md:p-10 p-5 bg-[#131332] rounded-lg">
                 <input type="text" placeholder='Name' className='px-4 py-3.5 bg-[#363659] text-white outline-none rounded-md w-full placeholder:text-white/70'/>
                 <input type="email" placeholder='Email Address' className='px-4 py-3.5 mt-6 bg-[#363659] text-white outline-none rounded-md w-full placeholder:text-white/70'/>
                 <input type="text" placeholder='Mobile Number' className='px-4 py-3.5  mt-6 bg-[#363659] text-white outline-none rounded-md w-full placeholder:text-white/70'/>
