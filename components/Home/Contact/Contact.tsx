@@ -30,7 +30,7 @@ const Contact = () => {
                 <div className="w-14 h-14 bg-blue-950/60 rounded-full flex flex-col items-center justify-center cursor-pointer hover:bg-blue-800 transition-all duration-300">
                 <FaFacebookF className='text-white w-6 h-6'/>
                 </div>
-                <div className="w-14 h-14 bg-blue-950/60 rounded-full flex flex-col items-center justify-center cursor-pointer hover:bg-sky-400 transition-all duration-300">
+                <div className="w-14 h-14 bg-blue-950/60 rounded-full flex flex-col items-center justify-center cursor-pointer hover:bg-[#0A66C2] transition-all duration-300">
                 <FaLinkedinIn className='text-white w-6 h-6'/>
                 </div>
                 <div className="w-14 h-14 bg-blue-950/60 rounded-full flex flex-col items-center justify-center cursor-pointer hover:bg-black transition-all duration-300">
